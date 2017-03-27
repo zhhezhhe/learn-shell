@@ -6,3 +6,7 @@ chmod +x run_im2txt.sh</br>
 # save output log
 outpath=/media/zh/E/im2txt/im2txt_log.csv</br>
 {> ${outpath} 2>&1 &}</br>
+# show file size
+du -h</br>
+# show disk size
+df -hl</br>
