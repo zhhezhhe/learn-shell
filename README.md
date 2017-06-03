@@ -9,4 +9,5 @@ outpath=/media/zh/E/im2txt/im2txt_log.csv</br>
 # show file size
 du -h</br>
 # show disk size
-df -hl</br>
+df -hl    
+ls *[0-9]
