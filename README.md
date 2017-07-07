@@ -10,4 +10,8 @@ outpath=/media/zh/E/im2txt/im2txt_log.csv</br>
 du -h</br>
 # show disk size
 df -hl    
-ls *[0-9]
+ls *[0-9]     
+# ssh
+```
+./ngrok tcp 22
+```
