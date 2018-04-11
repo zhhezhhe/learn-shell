@@ -15,3 +15,7 @@ ls *[0-9]
 ```
 ./ngrok tcp 22
 ```
+# kill the process
+```
+ps x |grep python|awk '{print $1}'|xargs kill
+```
